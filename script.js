@@ -15,3 +15,17 @@ const getSpecies = (animal) => {
 };
 
 console.log(getSpecies(tiger));
+
+const getAge = (animal) => {
+  return animal.age;
+};
+
+console.log(getAge(tiger));
+
+//add property to obj
+const addHabitat = (animal, habitat) => {
+  animal.habitat = habitat;
+  return animal;
+};
+
+console.log(addHabitat(tiger, "Rainforest"));
