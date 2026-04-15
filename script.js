@@ -4,3 +4,9 @@ const tiger = {
   isEndangered: true
 };
 
+const elephant = {
+  species: "Elephant",
+  age: 10,
+  isEndangered: true
+};
+
