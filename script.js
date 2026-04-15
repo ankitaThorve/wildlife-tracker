@@ -1,1 +1,2 @@
-// const tiger = {};
+const tiger = {};
+
